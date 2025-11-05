@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my web developer cicle End-of-Course Project<br>🌱 I’m currently learning Node.js / TypeScript / Cybersecurity<br>
+🔭 I’m currently working on my web developer cicle End-of-Course Project<br>🌱 I’m currently learning Node.js / TypeScript / Python / Cybersecurity<br>
 
 
 ## 🌐 Socials:
